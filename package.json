@@ -1,5 +1,5 @@
 {
-  "name": "keystone-email",
+  "name": "keystone-email-mailgun-options",
   "version": "1.1.0",
   "description": "Email helper for KeystoneJS Apps",
   "main": "index.js",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keystonejs/keystone-email.git"
+    "url": "git+https://github.com/Sylchi/keystone-email.git"
   },
   "keywords": [
     "email",
